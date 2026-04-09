@@ -9,15 +9,15 @@
 
 I have a strong professional background in:
 
-- Industrial Kitchen Systems  
-- Construction Sector  
+- Production Industry  
+- Construction Idustry  
 - Defense Industry  
 
 🎓 Education:
 - Bachelor's Degree – Ankara University  
 - Executive MBA – Koç University  
 
-I worked as a **senior-level manager** across multiple industries.
+I worked as a **senior-level manager** across multiple industries over 25 years.
 
 ---
 
