@@ -47,11 +47,30 @@ My goal is simple:
 
 ## 🔥 Featured Project
 
-### 📌 RFQ Supplier Discovery (Excel VBA)
+🚀 I develop advanced Email-based RFQ automation systems that transform unstructured inbox data into a smart supplier intelligence platform.
 
-➡️ Turns years of Outlook emails into a searchable supplier database  
-➡️ Finds who quoted what, when, and for which part  
-➡️ Eliminates manual email searching  
+📩 My solutions (EmailBook systems) automatically match the right emails with the correct part numbers, manufacturers, and suppliers — enabling fast and accurate sourcing decisions.
+
+🔍 Key capabilities include:
+
+• 📥 Intelligent email parsing and data extraction  
+• 🔗 Supplier & part number matching  
+• 🔄 Alternative supplier discovery  
+• ⚡ Sending competitive RFQs within minutes  
+• ✅ Automated validation to prevent incorrect submissions  
+• 🚫 Blacklist and rule-based filtering systems  
+• 🎯 Controlled workflows to eliminate wrong supplier targeting  
+
+💡 This allows companies to:
+
+✔ 📤 Send RFQs to the right suppliers instantly  
+✔ 💰 Receive competitive offers faster  
+✔ ⏱ Reduce manual workload dramatically  
+✔ ❌ Eliminate costly sourcing mistakes  
+
+🧠 In short: I turn email chaos into a structured, automated RFQ engine.
+
+🔥 This is not just automation — it is a complete sourcing acceleration system. 
 
 ---
 
